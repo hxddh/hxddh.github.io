@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[茴香豆的茴]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://titpea.com/"/>
+  <updated>2015-09-17T05:01:02.000Z</updated>
+  <id>http://titpea.com/</id>
+  
+  <author>
+    <name><![CDATA[hxddh]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://titpea.com/2015/09/17/hello-world/"/>
+    <id>http://titpea.com/2015/09/17/hello-world/</id>
+    <published>2015-09-17T05:01:02.000Z</published>
+    <updated>2015-09-17T05:01:02.000Z</updated>
+    <content type="html"><![CDATA[<p>欢迎来到 <a href="http://www.titpea.com" target="_blank" rel="external">茴香豆的茴</a>。</p>
+<p>&emsp;&emsp;</p>
+<hr>
+<h2 id="关于我">关于我</h2><p>男，生于80末，IT狗。</p>
+<p>&emsp;&emsp;</p>
+<hr>
+<h2 id="如何联系我">如何联系我</h2><p>戳 <a href="http://weibo.com/hxddh" target="_blank" rel="external">微博</a></p>
+<p>戳 <a href="https://twitter.com/hxddh" target="_blank" rel="external">Twitter</a></p>
+<p>戳 <a href="mailto:hxddh2010@163.com" target="_blank" rel="external">邮箱</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>欢迎来到 <a href="http://www.titpea.com" target="_blank" rel="external">茴香豆的茴</a>。</p>
+<p>&emsp;&emsp;</p>
+<hr>
+<h2 id="关于我">关于我</h2><p>男，生于8]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
