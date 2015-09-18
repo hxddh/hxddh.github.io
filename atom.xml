@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-17T05:01:02.000Z</updated>
+  <updated>2015-09-18T05:49:45.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -16,25 +16,18 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://titpea.com/2015/09/17/hello-world/"/>
-    <id>http://titpea.com/2015/09/17/hello-world/</id>
-    <published>2015-09-17T05:01:02.000Z</published>
-    <updated>2015-09-17T05:01:02.000Z</updated>
+    <link href="http://titpea.com/2015/09/18/hello-world/"/>
+    <id>http://titpea.com/2015/09/18/hello-world/</id>
+    <published>2015-09-18T05:49:45.000Z</published>
+    <updated>2015-09-18T05:49:45.000Z</updated>
     <content type="html"><![CDATA[<p>欢迎来到 <a href="http://www.titpea.com" target="_blank" rel="external">茴香豆的茴</a>。</p>
 <p>&emsp;&emsp;</p>
-<hr>
-<h2 id="关于我">关于我</h2><p>男，生于80末，IT狗。</p>
-<p>&emsp;&emsp;</p>
-<hr>
-<h2 id="如何联系我">如何联系我</h2><p>戳 <a href="http://weibo.com/hxddh" target="_blank" rel="external">微博</a></p>
-<p>戳 <a href="https://twitter.com/hxddh" target="_blank" rel="external">Twitter</a></p>
-<p>戳 <a href="mailto:hxddh2010@163.com" target="_blank" rel="external">邮箱</a></p>
+<p>这是一块自留地，摆脱信息碎片和喧嚣，将自己能展示给 Internet 的东西记录下来。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>欢迎来到 <a href="http://www.titpea.com" target="_blank" rel="external">茴香豆的茴</a>。</p>
 <p>&emsp;&emsp;</p>
-<hr>
-<h2 id="关于我">关于我</h2><p>男，生于8]]>
+<p>这是一块自留地，摆脱信息碎片和喧嚣，将自己能展示给 Inter]]>
     </summary>
     
   </entry>
