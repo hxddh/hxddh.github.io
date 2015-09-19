@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-19T04:34:54.000Z</updated>
+  <updated>2015-09-19T04:36:47.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://titpea.com/2015/09/19/Hexo%E4%B8%8EGithub%E5%BB%BA%E7%AB%99/"/>
     <id>http://titpea.com/2015/09/19/Hexo与Github建站/</id>
     <published>2015-09-19T03:44:54.000Z</published>
-    <updated>2015-09-19T04:34:54.000Z</updated>
+    <updated>2015-09-19T04:36:47.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;</p>
 <h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
 <h2 id="&emsp;">&emsp;</h2><h2 id="为什么选择_Hexo_与_Github">为什么选择 Hexo 与 Github</h2><p>&emsp;<br>&emsp;&emsp;追求最小的建站成本和灵活性。<br>&emsp;&emsp;Hexo 负责生成静态网页，Github 提供了稳定的托管，阿里云ECS作为承载 Hexo 的平台。<br>&emsp;</p>
@@ -44,10 +44,11 @@
 </li>
 <li><p>&emsp;<code>$ nvm install 0.10</code></p>
 </li>
-<li><p>&emsp;<code>$ nvm alias default 0.10.40</code><br>&emsp;  （<em>很重要，否则退出终端后，重新登录后，会找不到 hexo 命令</em>）<br>&emsp;<br>&emsp;</p>
-<h4 id="安装_Hexo">安装 Hexo</h4></li>
-<li><p>&emsp;<code>$ npm install hexo-cli -g</code></p>
+<li><p>&emsp;<code>$ nvm alias default 0.10.40</code><br>&emsp;  （<em>很重要，否则退出终端后，重新登录后，会找不到 hexo 命令</em>）<br>&emsp;</p>
 </li>
+</ul>
+<h4 id="安装_Hexo">安装 Hexo</h4><ul>
+<li>&emsp;<code>$ npm install hexo-cli -g</code></li>
 <li>&emsp;<code>$ hexo init /blog</code></li>
 <li>&emsp;<code>$ cd /blog</code></li>
 <li>&emsp;<code>$ npm install</code></li>
@@ -59,7 +60,7 @@
 </ul>
 <p><code>deploy:</code><br>&emsp;<code>type: git</code><br>&emsp;<code>repository: git@github.com: xxx/xxx.github.io.git</code><br>&emsp;<code>branch: master</code></p>
 <p>&emsp;&emsp;（<em>将xxx替换成自己github的帐号</em>）<br>&emsp;</p>
-<h4 id="建立CNAME">建立CNAME</h4><p>&emsp;<br>&emsp; 要建立下 /blog/source 下<br>&emsp; <em>如果你的域名带二级域名www的话</em>，CNAME里域名要带www，否则会提示<strong>重定向</strong></p>
+<h4 id="建立CNAME">建立CNAME</h4><p>&emsp;<br>&emsp; 要建立 /blog/source 下<br>&emsp; <em>如果你的域名带二级域名www的话</em>，CNAME里域名要带www，否则会提示<strong>重定向</strong></p>
 <hr>
 <p>&emsp;</p>
 <h3 id="待续ing"><strong>待续ing</strong></h3>]]></content>
