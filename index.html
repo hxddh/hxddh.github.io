@@ -98,33 +98,37 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
+        <p>&emsp;</p>
+<h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
+<h2 id="&emsp;">&emsp;</h2><h2 id="为什么选择_Hexo_与_Github">为什么选择 Hexo 与 Github</h2><p>&emsp;<br>&emsp;&emsp;追求最小的建站成本和灵活性。<br>&emsp;&emsp;Hexo 负责生成静态网页，Github 提供了稳定的托管，阿里云ECS作为承载 Hexo 的平台。<br>&emsp;</p>
 <hr>
-<h2 id="为什么选择_Hexo_与_Github">为什么选择 Hexo 与 Github</h2><p>&emsp;<br>&emsp;&emsp;追求最小的建站成本和灵活性。<br>&emsp;&emsp;Hexo 负责生成静态网页，Github 提供了稳定的托管，阿里云ECS作为承载 Hexo 的平台。</p>
-<hr>
-<h2 id="开始建站">开始建站</h2><hr>
-<h3 id="Github_侧">Github 侧</h3><ol>
+<p>&emsp;</p>
+<h2 id="开始建站">开始建站</h2><p>&emsp;</p>
+<h3 id="Github_侧">Github 侧</h3><p>&emsp;</p>
+<ol>
 <li>建立分支<br>&emsp;建立xxx.github.io（其中xxx必须与github的帐户名一致）</li>
 </ol>
-<h3 id="ECS_侧">ECS 侧</h3><h4 id="安装_Git">安装 Git</h4><ol>
-<li><p>Git<br>&emsp;<code>$ sudo apt-get install git-core git</code><br>&emsp;<code>$ git config --global user.name your name</code><br>&emsp;<code>$ git config --global user.email you email</code></p>
-</li>
-<li><p>创建SSH Key</p>
-</li>
-<li><p>与 Github 关联<br>&emsp;<code>$ gedit ~/.ssh/github_rsa.pub</code><br>&emsp;<em>将上述里面的内容copy至Github的 SSH Key 验证中</em></p>
-</li>
+<p>%emsp;</p>
+<h3 id="ECS_侧">ECS 侧</h3><p>&emsp;</p>
+<h4 id="安装_Git">安装 Git</h4><p>&emsp;</p>
+<ol>
+<li>Git<br>&emsp;<code>$ sudo apt-get install git-core git</code><br>&emsp;<code>$ git config --global user.name your name</code><br>&emsp;<code>$ git config --global user.email you email</code><br>&emsp;</li>
+<li>创建SSH Key<br>&emsp;</li>
+<li>与 Github 关联<br>&emsp;<code>$ gedit ~/.ssh/github_rsa.pub</code><br>&emsp;<em>将上述里面的内容copy至Github的 SSH Key 验证中</em></li>
 </ol>
 <hr>
-<h4 id="安装_node-js">安装 node.js</h4><ol>
-<li>&emsp;<code>$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash</code></li>
-</ol>
+<p>&emsp;</p>
+<h4 id="安装_node-js">安装 node.js</h4><p>&emsp;</p>
 <ol>
+<li><p>&emsp;<code>$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash</code></p>
+</li>
 <li><p>&emsp;<code>$ nvm install 0.10</code></p>
 </li>
-<li><p>&emsp;<code>$ nvm alias default 0.10.40</code><br>&emsp;  （<em>很重要，否则退出终端后，重新登录后，会找不到 hexo 命令</em>）</p>
+<li><p>&emsp;<code>$ nvm alias default 0.10.40</code><br>&emsp;  （<em>很重要，否则退出终端后，重新登录后，会找不到 hexo 命令</em>）<br>&emsp;</p>
 </li>
 </ol>
 <hr>
+<p>&emsp;</p>
 <h4 id="安装_Hexo">安装 Hexo</h4><ol>
 <li>&emsp;<code>$ npm install hexo-cli -g</code></li>
 <li>&emsp;<code>$ hexo init /blog</code></li>
@@ -132,13 +136,13 @@
 <li>&emsp;<code>$ npm install</code></li>
 <li>&emsp;<code>$ npm install hexo-deployer-git --save</code><br>&emsp;（<em>很重要，否则无法在github生成必要的文件</em>）</li>
 </ol>
+<p>&emsp;</p>
 <h4 id="修改_Hexo">修改 Hexo</h4><ol>
 <li>编辑/blog目录下的 _config.yml</li>
 </ol>
 <p><code>deploy:</code><br>&emsp;<code>type: git</code><br>&emsp;<code>repository: git@github.com: xxx/xxx.github.io.git</code><br>&emsp;<code>branch: master</code></p>
 <p>&emsp;&emsp;（<em>将xxx替换成自己github的帐号</em>）</p>
-<hr>
-<ol>
+<h2 id="&emsp;-1">&emsp;</h2><ol>
 <li>建立CNAME<br>&emsp;<br>&emsp; 要建立下 /blog/source 下<br>&emsp; <em>如果你的域名带二级域名www的话</em>，CNAME里域名要带www，否则会提示<strong>重定向</strong></li>
 </ol>
 <hr>
@@ -146,7 +150,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/19/Hexo与Github建站/" data-id="cieqjgfnt00025dwy0sprmga2" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/19/Hexo与Github建站/" data-id="cieqjq66500026bwy8j2u1f8q" class="article-share-link">Share</a>
       
         <a href="http://titpea.com/2015/09/19/Hexo与Github建站/#disqus_thread" class="article-comment-link">Comments</a>
       
@@ -186,7 +190,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/18/hello-world/" data-id="cieqjgfni00015dwywinmxhkw" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/18/hello-world/" data-id="cieqjq65v00016bwykh8gbmqb" class="article-share-link">Share</a>
       
         <a href="http://titpea.com/2015/09/18/hello-world/#disqus_thread" class="article-comment-link">Comments</a>
       
