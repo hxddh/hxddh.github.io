@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-24T02:33:49.000Z</updated>
+  <updated>2015-09-24T02:38:41.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Chromebook使用体验（一）]]></title>
-    <link href="http://titpea.com/2015/09/24/Chromebook%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>http://titpea.com/2015/09/24/Chromebook使用体验（一）/</id>
+    <title><![CDATA[Chromebook 初体验]]></title>
+    <link href="http://titpea.com/2015/09/24/Chromebook%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>http://titpea.com/2015/09/24/Chromebook初体验/</id>
     <published>2015-09-24T02:33:23.000Z</published>
-    <updated>2015-09-24T02:33:49.000Z</updated>
+    <updated>2015-09-24T02:38:41.000Z</updated>
     <content type="html"><![CDATA[<p>几个月前买了一台 <strong>Chromebook</strong>，国内没有发售，是托论坛的人从美国带回来的。Toshiba Chromebook 2，低配版，2014年10月份发布，机子的配置是 Intel 的低功耗 CPU，2G 内存，16G SSD 硬盘，低分辨率雾面屏，合算下来是 <em>1450</em> 人民币，基本情况就是这样。<br>&emsp;</p>
 <p><img src="http://ww3.sinaimg.cn/mw690/62c622bbjw1ewdbnxmg9nj20yg0pun07.jpg" alt="Toshiba Chromebook"><br>&emsp;<br>机子入门是有成本的，如果无法科学上网连接到 Google 的服务器，那 Chromebook 是无法激活的。登陆 Google 账户激活后，可以去领取 100G Google Drive 容量，有效期三年。系统会后台自动同步Chrome 账户下的书签、插件、应用。基本就是一台搭载 Chrome 浏览器的 PC。</p>
 <p>&emsp;</p>
