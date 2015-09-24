@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-24T02:44:16.000Z</updated>
+  <updated>2015-09-24T02:59:14.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://titpea.com/2015/09/24/Chromebook%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
     <id>http://titpea.com/2015/09/24/Chromebook初体验/</id>
     <published>2015-09-24T02:33:23.000Z</published>
-    <updated>2015-09-24T02:44:16.000Z</updated>
+    <updated>2015-09-24T02:59:14.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;<br>几个月前买了一台 <strong>Chromebook</strong>，国内没有发售，是托论坛的人从美国带回来的。Toshiba Chromebook 2，低配版，2014年10月份发布，机子的配置是 Intel 的低功耗 CPU，2G 内存，16G SSD 硬盘，低分辨率雾面屏，合算下来是 <em>1450</em> 人民币，基本情况就是这样。<br>&emsp;</p>
 <p><img src="http://ww3.sinaimg.cn/mw690/62c622bbjw1ewdbnxmg9nj20yg0pun07.jpg" alt="Toshiba Chromebook"><br>&emsp;<br>机子入门是有成本的，如果无法科学上网连接到 Google 的服务器，那 Chromebook 是无法激活的。登陆 Google 账户激活后，可以去领取 100G Google Drive 容量，有效期三年。系统会后台自动同步Chrome 账户下的书签、插件、应用。基本就是一台搭载 Chrome 浏览器的 PC。</p>
 <p>&emsp;</p>
@@ -38,7 +38,7 @@
 <li>底层基于 Linux，外观就是一个大号 Chrome</li>
 <li>Chrome 浏览器的重度用户可以轻易上手</li>
 <li><strong>字体</strong>和<strong>渲染</strong>不友好 ，相比 Windows 和 Mac OS，字体渲染发虚</li>
-<li>基本是基于 Internet 的设备，也有很多精美的本地 App。目前 Chrome 应用商店现在已经有很多支持离线使用的 APP</li>
+<li>基本是基于 Internet 的设备，也有很多精美的本地 App。Chrome 应用商店已经有很多支持离线使用的 APP</li>
 </ul>
 <h3 id="适合的使用场景">适合的使用场景</h3><ul>
 <li>文字工作者，可以随时随地打开码字</li>
