@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-20T05:24:24.000Z</updated>
+  <updated>2015-09-24T02:33:49.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -13,6 +13,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Chromebook使用体验（一）]]></title>
+    <link href="http://titpea.com/2015/09/24/Chromebook%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://titpea.com/2015/09/24/Chromebook使用体验（一）/</id>
+    <published>2015-09-24T02:33:23.000Z</published>
+    <updated>2015-09-24T02:33:49.000Z</updated>
+    <content type="html"><![CDATA[<p>几个月前买了一台 <strong>Chromebook</strong>，国内没有发售，是托论坛的人从美国带回来的。Toshiba Chromebook 2，低配版，2014年10月份发布，机子的配置是 Intel 的低功耗 CPU，2G 内存，16G SSD 硬盘，低分辨率雾面屏，合算下来是 <em>1450</em> 人民币，基本情况就是这样。<br>&emsp;</p>
+<p><img src="http://ww3.sinaimg.cn/mw690/62c622bbjw1ewdbnxmg9nj20yg0pun07.jpg" alt="Toshiba Chromebook"><br>&emsp;<br>机子入门是有成本的，如果无法科学上网连接到 Google 的服务器，那 Chromebook 是无法激活的。登陆 Google 账户激活后，可以去领取 100G Google Drive 容量，有效期三年。系统会后台自动同步Chrome 账户下的书签、插件、应用。基本就是一台搭载 Chrome 浏览器的 PC。</p>
+<p>&emsp;</p>
+<p><img src="http://ww4.sinaimg.cn/mw690/62c622bbjw1ewdbo4dznuj21kw1247wh.jpg" alt="Chromebook 键盘"><br>&emsp;<br>Chromebook 对键盘进行了重新设计，譬如，替换 Caps Lock 键为搜索键；重定义传统的 F 系列功能键。触摸板的手势，三指切换标签页，两指回退，等等。触摸板的体验比 Windows 的要好。</p>
+<p>适合自己的工具才值得入手，Chromebook 的优势是，续航强，轻便，对有一定技术基础且是 Chrome 重度用户的人很友好，当然大部分机器的配置比较低，除了 Pixel 二代。</p>
+<p>如果基本不使用 Chrome 浏览器，不懂科学上网，很在意 CPU 性能，对 Web 的热情和依赖不大，那么没必要入手这类设备。<br>&emsp;</p>
+<p><img src="http://ww3.sinaimg.cn/mw690/62c622bbjw1ewdbo811kvj20yg0pun0e.jpg" alt="Chromebook 屏幕"></p>
+<hr>
+<h3 id="硬件">硬件</h3><ul>
+<li>2G 内存的配置，并不会拖累使用体验，打开 10 个左右的 Tab，不会有卡顿的感觉</li>
+<li>720P 分辨率雾面屏</li>
+<li>全塑料机身，使用低功耗 CPU，无散热风扇</li>
+<li>大于 8 小时的续航</li>
+</ul>
+<h3 id="系统">系统</h3><ul>
+<li>底层基于 Linux，外观就是一个大号 Chrome</li>
+<li>Chrome 浏览器的重度用户可以轻易上手</li>
+<li><strong>字体</strong>和<strong>渲染</strong>不友好 ，相比 Windows 和 Mac OS，字体渲染发虚</li>
+<li>基本是基于 Internet 的设备，也有很多精美的本地 App。目前 Chrome 应用商店现在已经有很多支持离线使用的 APP</li>
+</ul>
+<h3 id="适合的使用场景">适合的使用场景</h3><ul>
+<li>文字工作者，可以随时随地打开码字</li>
+<li>重度Internet者，随时打开浏览网页，视频</li>
+<li>不需要 PC 的本地运算性能，SSH 到服务器上干活的工程师</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>几个月前买了一台 <strong>Chromebook</strong>，国内没有发售，是托论坛的人从美国带回来的。Toshiba Chromebook 2，低配版，2014年10月份发布，机子的配置是 Intel 的低功耗 CPU，2G 内存，16G SSD 硬盘，低分辨]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
