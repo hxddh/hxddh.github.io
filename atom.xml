@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-25T04:22:50.000Z</updated>
+  <updated>2015-09-25T04:24:14.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -19,16 +19,16 @@
     <link href="http://titpea.com/2015/09/25/Android%E6%A1%8C%E9%9D%A2%E6%8A%BD%E5%B1%89%E6%A0%8F%E6%9B%B4%E6%96%B0/"/>
     <id>http://titpea.com/2015/09/25/Android桌面抽屉栏更新/</id>
     <published>2015-09-25T03:13:18.000Z</published>
-    <updated>2015-09-25T04:22:50.000Z</updated>
-    <content type="html"><![CDATA[<p>&emsp;<br>Google Play 商店今天对Google应用推送更新，对桌面抽屉的排列方式进行变更。由之前的横向排列，转变为竖向排列，并置顶搜索框。</p>
+    <updated>2015-09-25T04:24:14.000Z</updated>
+    <content type="html"><![CDATA[<p>&emsp;<br>Google Play 商店今天推送更新，对桌面抽屉的排列方式进行变更。由之前的横向排列，转变为竖向排列，并置顶搜索框。</p>
 <p>&emsp;</p>
 <p><img src="http://ww4.sinaimg.cn/mw690/62c622bbgw1eweho5rpagj20u05wbqv6.jpg" alt="我的 Android 桌面"><br>&emsp;</p>
 <p>这个变更（应用竖向排列）是属于 Android 6 中的特性，等10月5号 Android 6 正式推送之后，会写一篇文章从各方面来说说 6.0 版本的变化。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>&emsp;<br>Google Play 商店今天对Google应用推送更新，对桌面抽屉的排列方式进行变更。由之前的横向排列，转变为竖向排列，并置顶搜索框。</p>
+    <![CDATA[<p>&emsp;<br>Google Play 商店今天推送更新，对桌面抽屉的排列方式进行变更。由之前的横向排列，转变为竖向排列，并置顶搜索框。</p>
 <p>&emsp;</p>
-<p><img src="http://ww4.sinaimg.cn/mw69]]>
+<p><img src="http://ww4.sinaimg.cn/mw690/62c622b]]>
     </summary>
     
   </entry>
