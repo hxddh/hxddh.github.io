@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-09-28T05:52:22.000Z</updated>
+  <updated>2015-09-28T12:54:00.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -13,6 +13,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[RSS的路在哪里.md]]></title>
+    <link href="http://titpea.com/2015/09/28/RSS%E7%9A%84%E8%B7%AF%E5%9C%A8%E5%93%AA%E9%87%8C/"/>
+    <id>http://titpea.com/2015/09/28/RSS的路在哪里/</id>
+    <published>2015-09-28T12:52:17.000Z</published>
+    <updated>2015-09-28T12:54:00.000Z</updated>
+    <content type="html"><![CDATA[<p>RSS的路在哪里</p>
+<p>（<em>这里用 RSS 来指代 RSS 和 Atom，因为 RSS 更广泛的被人们熟知</em>）</p>
+<p><strong>Google Reader 在2013年7月终止服务</strong>。</p>
+<p>这是一个里程碑，RSS被衰落。</p>
+<p>关于RSS，讲一讲我自己的理解和看法。</p>
+<a id="more"></a>
+<p>RSS代表着信息流的封闭，信息从源头分散开，然后终结。这种信息方式是承载在管道中，去平台化去容器化。</p>
+<p>SNS（例如微博和Twitter）是开放的信息流形态。从一而生，进而分支扩散，爆发性传播。像平台和容器，让信息流保持着延续性和穿透力。</p>
+<p>两种信息承载形态的异同也决定了对信息流本身的筛选。短而快的信息在 SNS 中充满活力，RSS更适合长篇累牍和沉淀化信息。</p>
+<p>信息需要传播，也需要沉淀。沉淀下来的东西，狭义的讲，更多是长文和有效内容的汇集，就像RSS所代表的东西。</p>
+<p>我们到底需不需要RSS，答案肯定是需要。就好比一夹子便条，和一本线装书，只能说谁现在更受人宠爱。</p>
+<p>最有影响力的 RSS 平台 Google Reader 的关闭，对 Blog 造成了极大的打击。Blog本身就是 RSS 最大最优质的信息源，因为那条管道被边缘，Blog也同时衰落。</p>
+<p>虽然受到重创，但薪火未断。Feedly 等一波管道接过了Google Reader的衣钵。（安利一下，Android下最好的RSS阅读器是Press，虽很久没有更新，不过它仍然：极致优雅，内而外）</p>
+<p>科技和 Internet 的高速发展。让我们拥有更好更大的屏幕，更小更快的处理器，更快更低价的移动网络。</p>
+<p>Twitter，微博，Instagram正是因移动互联网和智能手机而兴起。在大屏移动设备上翻看摆弄微博，毫无违和感，简直是为移动设备而生。</p>
+<p>信息形态的另一面是不会消亡，只是需要有更合适的载体和商业模式来激活。</p>
+<p>也许下一个淘金者并不远。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>RSS的路在哪里</p>
+<p>（<em>这里用 RSS 来指代 RSS 和 Atom，因为 RSS 更广泛的被人们熟知</em>）</p>
+<p><strong>Google Reader 在2013年7月终止服务</strong>。</p>
+<p>这是一个里程碑，RSS被衰落。</p>
+<p>关于RSS，讲一讲我自己的理解和看法。</p>]]>
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Android 6 预热]]></title>
