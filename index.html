@@ -107,7 +107,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/25/Android6预热/" data-id="ciez5jrt70005ygwyue5dvjkd" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/25/Android6预热/" data-id="cif3inv1x0005mtwyiphjei3u" class="article-share-link">Share</a>
       
       
     </footer>
@@ -169,7 +169,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/24/Chromebook初体验/" data-id="ciez5jrt50004ygwy3qq1zxm9" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/24/Chromebook初体验/" data-id="cif3inv1u0004mtwyqqqj5qsn" class="article-share-link">Share</a>
       
       
     </footer>
@@ -208,7 +208,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/20/hello-world/" data-id="ciez5jrsz0002ygwy6ixtgrqt" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/20/hello-world/" data-id="cif3inv1n0002mtwyrtmp8g2q" class="article-share-link">Share</a>
       
       
     </footer>
@@ -270,7 +270,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/19/你的包里有什么/" data-id="ciez5jrsq0001ygwym8djaun5" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/19/你的包里有什么/" data-id="cif3inv1f0001mtwy4r4pnqdy" class="article-share-link">Share</a>
       
       
     </footer>
@@ -305,53 +305,16 @@
       
         <p>&emsp;</p>
 <h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
-<h2 id="&emsp;">&emsp;</h2><h2 id="为什么选择_Hexo_与_Github">为什么选择 Hexo 与 Github</h2><p>&emsp;<br>&emsp;&emsp;追求最小的建站成本和灵活性。<br>&emsp;&emsp;Hexo 负责生成静态网页，Github 提供了稳定的托管，阿里云ECS作为承载 Hexo 的平台。<br>&emsp;</p>
-<hr>
-<p>&emsp;</p>
-<h2 id="开始建站">开始建站</h2><p>&emsp;</p>
-<h3 id="Github_侧"><strong>Github 侧</strong></h3><ul>
-<li>建立分支<br>&emsp;建立xxx.github.io<br>&emsp;（<em>其中xxx必须与github的帐户名一致</em>）</li>
-</ul>
-<p>&emsp;</p>
-<h3 id="ECS_侧"><strong>ECS 侧</strong></h3><p>&emsp;</p>
-<h4 id="安装_Git">安装 Git</h4><ul>
-<li>Git </li>
-</ul>
-<p>&emsp;<code>$ sudo apt-get install git-core git</code><br>&emsp;<code>$ git config --global user.name your name</code><br>&emsp;<code>$ git config --global user.email you email</code><br>&emsp;</p>
-<ul>
-<li>创建SSH Key<br>&emsp;</li>
-<li>与 Github 关联<br>&emsp;<code>$ gedit ~/.ssh/github_rsa.pub</code><br>&emsp;<em>将上述里面的内容copy至Github的 SSH Key 验证中</em></li>
-</ul>
-<p>&emsp;</p>
-<h4 id="安装_node-js">安装 node.js</h4><ul>
-<li><p>&emsp;<code>$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash</code></p>
-</li>
-<li><p>&emsp;<code>$ nvm install 0.10</code></p>
-</li>
-<li><p>&emsp;<code>$ nvm alias default 0.10.40</code><br>&emsp;  （<em>很重要，否则退出终端后，重新登录后，会找不到 hexo 命令</em>）<br>&emsp;</p>
-</li>
-</ul>
-<h4 id="安装_Hexo">安装 Hexo</h4><ul>
-<li>&emsp;<code>$ npm install hexo-cli -g</code></li>
-<li>&emsp;<code>$ hexo init /blog</code></li>
-<li>&emsp;<code>$ cd /blog</code></li>
-<li>&emsp;<code>$ npm install</code></li>
-<li>&emsp;<code>$ npm install hexo-deployer-git --save</code><br>&emsp;（<em>很重要，否则无法在github生成必要的文件</em>）</li>
-</ul>
-<p>&emsp;</p>
-<h4 id="修改_Hexo">修改 Hexo</h4><ul>
-<li>编辑 /blog 目录下的 _config.yml</li>
-</ul>
-<p><code>deploy:</code><br>&emsp;<code>type: git</code><br>&emsp;<code>repository: git@github.com: xxx/xxx.github.io.git</code><br>&emsp;<code>branch: master</code></p>
-<p>&emsp;&emsp;（<em>将xxx替换成自己github的帐号</em>）<br>&emsp;</p>
-<h4 id="建立CNAME">建立CNAME</h4><p>&emsp;<br>&emsp; 在 /blog/source 下创建<br>&emsp; <em>如果域名带二级域名 www 的话</em>，CNAME里域名也要带www，否则会提示<strong>重定向</strong></p>
-<hr>
-<p>&emsp;</p>
-<h3 id="待续ing"><strong>待续ing</strong></h3>
+<h2 id="&emsp;">&emsp;</h2>
+        
+          <p class="article-more-link">
+            <a href="/2015/09/19/Hexo与Github建站/#more">Read More</a>
+          </p>
+        
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://titpea.com/2015/09/19/Hexo与Github建站/" data-id="ciez5jrt20003ygwylg1thtcg" class="article-share-link">Share</a>
+      <a data-url="http://titpea.com/2015/09/19/Hexo与Github建站/" data-id="cif3inv1r0003mtwyn6zdcf3n" class="article-share-link">Share</a>
       
       
     </footer>
