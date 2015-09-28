@@ -133,10 +133,10 @@
     <link href="http://titpea.com/2015/09/19/Hexo%E4%B8%8EGithub%E5%BB%BA%E7%AB%99/"/>
     <id>http://titpea.com/2015/09/19/Hexo与Github建站/</id>
     <published>2015-09-19T03:44:54.000Z</published>
-    <updated>2015-09-28T05:50:25.000Z</updated>
+    <updated>2015-09-28T06:02:42.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;</p>
 <h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
-<h2 id="&emsp;">&emsp;</h2><a id="more"></a>
+<h2 id="&emsp;">&emsp;</h2><!--阅读更多-->
 <h2 id="为什么选择_Hexo_与_Github">为什么选择 Hexo 与 Github</h2><p>&emsp;<br>&emsp;&emsp;追求最小的建站成本和灵活性。<br>&emsp;&emsp;Hexo 负责生成静态网页，Github 提供了稳定的托管，阿里云ECS作为承载 Hexo 的平台。<br>&emsp;</p>
 <hr>
 <p>&emsp;</p>
@@ -183,8 +183,7 @@
     <summary type="html">
     <![CDATA[<p>&emsp;</p>
 <h2 id="初衷">初衷</h2><p>&emsp;<br>&emsp;&emsp;用优惠价订购了一年期的阿里云ECS，为了弥补冲动消费的后果，得利用起这台云主机。建立个人网站是其中的一项。</p>
-<h2 id="&emsp;">&emsp;</h2>]]>
-    
+<h2 id="&emsp;">&emsp;</]]>
     </summary>
     
   </entry>
