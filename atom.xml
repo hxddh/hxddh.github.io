@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2015-11-26T12:31:33.000Z</updated>
+  <updated>2015-11-26T12:48:06.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -19,9 +19,10 @@
     <link href="http://titpea.com/2015/11/26/Android%E6%89%8B%E6%9C%BA%E5%8A%9F%E8%83%BD%E9%94%AE%E7%9A%84%E5%B7%AE%E5%BC%82%E5%8C%96/"/>
     <id>http://titpea.com/2015/11/26/Android手机功能键的差异化/</id>
     <published>2015-11-26T12:24:31.000Z</published>
-    <updated>2015-11-26T12:31:33.000Z</updated>
+    <updated>2015-11-26T12:48:06.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;</p>
-<h3 id="始于_Android_4-4"><strong>始于 Android 4.4</strong></h3><p>从Android 4.4开始，Google官方重新定义系统界面底部的功能键，虚拟按键，从左至右依次为返回键，Home键，多任务键（替代之前的菜单键）</p>
+<h3 id="始于_Android_4-4"><strong>始于 Android 4.4</strong></h3><p><img src="http://ww2.sinaimg.cn/large/62c622bbgw1eyenw01nxuj21kw163dv7.jpg" alt="Nexus 5X 正面"></p>
+<p><img src="http://ww1.sinaimg.cn/large/62c622bbgw1eyenvjwewmj21kw163h3i.jpg" alt="Nexus 5X 背面"><br>&emsp;<br>Android 4.4开始，Google官方重新定义系统界面底部的功能键，虚拟按键，从左至右依次为返回键，Home键，多任务键（替代之前的菜单键）</p>
 <p>现在这个设计一直延续到Android 6.0，期间跨越一个大版本，Android 5.0</p>
 <p>目前主流的设备厂商对三个功能键的定义方式主要有几下几种</p>
 <ul>
@@ -57,7 +58,7 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;</p>
-<h3 id="始于_Android_4-4"><strong>始于 Android 4.4</strong></h3><p>从Android 4.4开始，Google官方重新定义系统界面底部的功能键，虚拟按键，从左至右依次为返回键，Home键，多任务]]>
+<h3 id="始于_Android_4-4"><strong>始于 Android 4.4</strong></h3><p><img src="http://ww2.sinaimg.cn/large/62c622bbgw1eyenw01nxuj21k]]>
     </summary>
     
   </entry>
