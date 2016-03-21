@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://titpea.com/"/>
-  <updated>2016-03-21T06:24:04.000Z</updated>
+  <updated>2016-03-21T06:26:19.000Z</updated>
   <id>http://titpea.com/</id>
   
   <author>
@@ -19,18 +19,27 @@
     <link href="http://titpea.com/2016/03/21/2015%E5%B9%B4%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E8%BD%AF%E7%A1%AC%E4%BB%B6%E7%9B%98%E7%82%B9/"/>
     <id>http://titpea.com/2016/03/21/2015年个人使用软硬件盘点/</id>
     <published>2016-03-21T06:22:22.000Z</published>
-    <updated>2016-03-21T06:24:04.000Z</updated>
+    <updated>2016-03-21T06:26:19.000Z</updated>
     <content type="html"><![CDATA[<p>&emsp;</p>
-<blockquote>
-<p> <strong>最惊喜超值应用</strong><br>        LastPass 高级版<br> <strong>最失望惋惜应用</strong><br>        豆瓣 FM<br> <strong>最惊喜超值硬件</strong><br>        坚果手机（2015版）<br> <strong>最失望惋惜硬件</strong><br>        Kindle Voyage</p>
-</blockquote>
+<ul>
+<li><strong>最惊喜超值应用</strong><pre><code><span class="title">LastPass</span> 高级版
+</code></pre></li>
+<li><strong>最失望惋惜应用</strong><pre><code>豆瓣 FM
+</code></pre></li>
+<li><strong>最惊喜超值硬件</strong><pre><code>坚果手机（<span class="number">2015</span>版）
+</code></pre></li>
+<li><strong>最失望惋惜硬件</strong><pre><code><span class="title">Kindle</span> Voyage
+</code></pre></li>
+</ul>
 <p>在这一年折腾的软硬件里，豆瓣FM不光在产品形态上止步不前，甚至连最基本的应用稳定性都难以做到。从当初问世时的惊艳到黯淡湮没…</p>
 <p>Kindle Voyage 本身足够好，只不过没有达到自己对 Voyage 这条顶级产品线的预期要求</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>&emsp;</p>
-<blockquote>
-<p> <strong>最惊喜超值应用</strong><br>        LastPass 高级版<br> <strong>最失望惋惜应用</strong><br>        豆瓣 FM<br> <strong>最惊]]>
+<ul>
+<li><strong>最惊喜超值应用</strong><pre><code><span class="title">LastPass</span> 高级版
+</code></pre></li>
+<li><strong>最失望惋惜应用</st]]>
     </summary>
     
   </entry>
